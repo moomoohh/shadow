@@ -1,0 +1,23 @@
+{
+"configs" : [
+  {
+"server" : "bwg.laily.me",
+"server_port" : 443,
+"password" : "ODBhYzk2ZW",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "laily.net",
+"server_port" : 9999,
+"password" : "OWUxMjc5Zj",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+
+],
+"index" : 1,
+"global" : false,
+"enabled" : true,
+"shareOverLan" : true,
+"isDefault" : false,
+"localPort" : 1080}
